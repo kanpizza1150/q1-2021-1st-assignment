@@ -6,3 +6,22 @@
 - `/:word` to get all word that start with {:word}
 
 - more challenge try to create local db from source and implement api as well
+
+
+## Get started
+### Installation
+```bash
+  yarn install
+  ``` 
+### Start and Watch
+ ```bash
+  node index.js
+  ```
+ or
+ ```bash
+  nodemon index,js
+```
+
+run at http://localhost:3000
+  
+  
